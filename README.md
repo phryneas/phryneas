@@ -76,7 +76,7 @@ The library is often mentioned as an example for very state-of-the-art library t
 <details open>
 <summary>toggle details</summary><p>
 
-Currently I work in a agile team on a 14 year old project consisting of multiple applications - from modern React frontends and React Native apps over microservices to old php monoliths and Cordova Apps, working on all parts of that stack.
+Currently I work in an agile team on a 14 year old project consisting of multiple applications - from modern React frontends and React Native apps over microservices to old php monoliths and Cordova Apps, working on all parts of that stack.
 
 My most used technologies are:
 
@@ -90,9 +90,9 @@ My most used technologies are:
 - trpc & grpc
 - Docker
 
-Additionally I am part of the company-internal "Group Dev" where we create an internal _technology radar_ and work on educating our devs with current technologies.
+Additionally I am part of the company-internal "Gruppe Dev" where we create an internal _technology radar_ and work on educating our devs with current technologies.
 
-I also take on the role of a company-internal "on demand consultant" to help other teams in whichever way I can - kickstarting projects, choosing technologies, teaching concepts and reviewing code & architecture.
+I also consult other internal teams in whichever way I can - kickstarting projects, choosing technologies, teaching concepts and reviewing code & architecture.
 
 </p></details>
 
@@ -230,7 +230,7 @@ This means I'm very well versed in security best practices and keep these in min
 - [use-local-slice](https://github.com/phryneas/use-local-slice)
 - [ts-version](https://github.com/phryneas/ts-version)
 - [ts-deep-extract-types](https://github.com/phryneas/ts-deep-extract-types)
-- [passB](https://github.com/passB/passB)
+- [passB](https://passb.github.io/)
 - [loggedPDO](https://github.com/phryneas/loggedPDO)
 - [eldo](https://github.com/phryneas/eldo)
 - [SkinLoL](https://sourceforge.net/projects/skinlol/)
