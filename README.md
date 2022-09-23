@@ -28,7 +28,7 @@ You can find a deeper insight in the "Work Experiences" section further down the
 - an **external DevRel** position
   - showcase your product (podcasts, blog posts, conferences)
   - create code examples on how to integrate it with other products
-  - interact with the community to help them using your product and find pain points in usage
+  - interact with the community to help them use your product and find pain points in usage
   - create tutorials and a knowledge base for commonly asked questions
   - coordinate with library authors for better integration in different ecosystems
 - an **internal DevRel** position
