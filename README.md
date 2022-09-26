@@ -9,7 +9,7 @@
 You can find a deeper insight in the "Work Experiences" section further down the page, but here is a **TLDR**:
 
 - FullStack Senior Developer with about 20 years of experience, currently mostly working on a React, React Native, TypeScript, GraphQL and Node stack
-- Maintaininer of Redux Toolkit, actively interacting with the community on GitHub, Twitter, Discord, StackOverflow and Reddit
+- Maintainer of Redux Toolkit, actively interacting with the community on GitHub, Twitter, Discord, StackOverflow and Reddit
 - well-established member of the TypeScript and React communities, known for complex "type wizardry"
 - deep Linux & DevOps knowledge (currently running NixOS as a daily driver and for my private "experimental cloud")
 - regularly evaluating new technologies for the company-internal tech radar
