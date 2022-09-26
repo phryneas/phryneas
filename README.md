@@ -81,6 +81,7 @@ The library is often mentioned as an example for very state-of-the-art library t
 <li>React &amp; React Native</li>
 <li>TypeScript</li>
 <li>GraphQL (Postgraphile, Apollo Client, NestJS, multiple servers using schema merging)</li>
+<li>Postgres</li>
 <li>FluentUI</li>
 <li>Redux</li>
 <li>NestJS</li>
